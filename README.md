@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ecwelsh124
+- 👀 I’m interested in Algorithmic Trading, python
+- 🌱 I’m currently learning Basic Trading Algorithm
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me ecwelsh@usc.edu
